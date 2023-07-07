@@ -1,0 +1,19 @@
+{
+  "name": "enas-iim-td",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enas-elm/iim-td-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enas-elm/iim-td-js/issues"
+  },
+  "homepage": "https://github.com/enas-elm/iim-td-js#readme"
+}
